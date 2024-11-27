@@ -5,9 +5,11 @@
 ## TOOLS USED: PYTHON FOR DATA CLEANING AND PRE-PROCESSING, APACHE HADOOP, APACHE PIG FOR DATA ANALYSIS
 
 ## DATASOURCE: KAGGLE
-https://www.kaggle.com/hetulmehta/bigbasket-products-dataset SCHEMA:
+https://www.kaggle.com/hetulmehta/bigbasket-products-dataset 
+
+# SCHEMA:
 PRODUCT, CATEGORY, SUB-CATEGORY, BRAND, TYPE, RATING, SALE_PRICE, MARKET_PRICE, PROFIT, PROFIT%
-SIZE: 22.45 MB
+
 
 
 
