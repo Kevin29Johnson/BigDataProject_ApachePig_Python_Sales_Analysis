@@ -52,31 +52,31 @@ x = FILTER project BY profit==l.max;
 ```
 
 ## 📊 Key Insights & Findings
-🏆 Product Performance:
+# 🏆 Product Performance:
 
-Highest Rated (5.0): Drinks (Tea), Sanitary products, Baby care items
-Lowest Rated (1.0): Beauty, skin-care, hygiene products
-Most Profitable: Premium Cloth Dryer (₹4,649 profit)
-Most Expensive: Epilator (₹10,769)
-Cheapest: Curry Leaves (₹12.55)
+- Highest Rated (5.0): Drinks (Tea), Sanitary products, Baby care items
+- Lowest Rated (1.0): Beauty, skin-care, hygiene products
+- Most Profitable: Premium Cloth Dryer (₹4,649 profit)
+_ Most Expensive: Epilator (₹10,769)
+_ Cheapest: Curry Leaves (₹12.55)
 
 ## 🏢 Brand Analysis:
 
-Top Brands by Count: Fresho, BB Home, Colgate
-Highest Rated: Mars and Nice (5.0 average)
-Popular: Oreo, Tang (4.0 average)
+- Top Brands by Count: Fresho, BB Home, Colgate
+- Highest Rated: Mars and Nice (5.0 average)
+- Popular: Oreo, Tang (4.0 average)
 
 ## 📈 Business Recommendations:
 
-Marketing Focus: Promote low-rated cleaning/household products
-Pricing Strategy: Optimize fruits/vegetables pricing (low profit)
-Quality Improvement: Address beauty/skincare product issues
-Inventory Priority: Focus on high-profit Beauty & Hygiene categories
+- Marketing Focus: Promote low-rated cleaning/household products
+- Pricing Strategy: Optimize fruits/vegetables pricing (low profit)
+- Quality Improvement: Address beauty/skincare product issues
+- Inventory Priority: Focus on high-profit Beauty & Hygiene categories
 
 
 ## 🎯 Key Takeaways
 
-Big Data ETL: End-to-end pipeline with Hadoop ecosystem
-Data Quality: Comprehensive cleaning and validation
-Business Intelligence: Actionable insights from eCommerce data
-Scalability: Handles large datasets efficiently
+- Big Data ETL: End-to-end pipeline with Hadoop ecosystem
+- Data Quality: Comprehensive cleaning and validation
+- Business Intelligence: Actionable insights from eCommerce data
+- Scalability: Handles large datasets efficiently
